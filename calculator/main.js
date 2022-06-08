@@ -46,6 +46,7 @@ keys.addEventListener('click', event => {
     delete calculator.dataset.operator
   }
 
+
   calculator.dataset.previousKeyType = type
 })
 

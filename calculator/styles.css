@@ -48,7 +48,7 @@ body {
   border-radius: 0.5em;
   overflow: hidden;
 }
-
+ 
 .calculator__display {
   background-color: black;
   color: var(--grey-050);
