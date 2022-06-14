@@ -4,13 +4,40 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tic-Tac-Toe</title>
+    
+    <link rel="stylesheet" href="style.css">
+    <title>X&O</title>
 </head>
 <body>
-    
+    <main class="background">
+        <section class="title">
+            <p>
+                <span style="color: #136F63">X</span>&<span style="color: #D00000">O</span> 
+                Game
+              </p>
+        </section>
+        <section class="display">
+           <span class="display-player playerX">X</span>'s turn
+        </section>
+        <section class="container">
+            <div data-key="1" class="tile"></div>
+            <div data-key="2" class="tile"></div>
+            <div data-key="3" class="tile"></div>
+            <div data-key="4" class="tile"></div>
+            <div data-key="5" class="tile"></div>
+            <div data-key="6" class="tile"></div>
+            <div data-key="7" class="tile"></div>
+            <div data-key="8" class="tile"></div>
+            <div data-key="9" class="tile"></div>
+        </section>
+        <section class="display announcer hide"></section>
+        <section class="controls">
+            <button id="reset">Reset</button>
+        </section>
+    </main>
     
 
 
-    <script src="X&O game/main.js"></script>
+    <script src="main.js"></script>
 </body>
 </html>
