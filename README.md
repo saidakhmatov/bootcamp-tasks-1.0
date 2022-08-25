@@ -1,4 +1,4 @@
-## Calculator and X&O game
+## Bootcamp tasks 1.0
 <br/>
 
 ### *Contact Info:*
