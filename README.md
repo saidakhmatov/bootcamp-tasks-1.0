@@ -1,5 +1,5 @@
 # Hi there !
-I am Sanjarbek Saidaxmatov 20 y.o CS student at INHA University in Tashkent.
+I am Sanjar Saidaxmatov 20 y.o CS student at INHA University in Tashkent.
 
 Here I share my **front-end** projects and stuff related to Front end  development.
 <br/>
