@@ -1,4 +1,4 @@
-## Frontend projects and stuff related to frontend  development
+## Calculator and X&O game
 <br/>
 
 ### *Contact Info:*
