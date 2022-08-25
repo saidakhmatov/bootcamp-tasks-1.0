@@ -1,7 +1,4 @@
-# Hi there !
-I am Sanjar Saidaxmatov 20 y.o CS student at INHA University in Tashkent.
-
-Here I share my **front-end** projects and stuff related to Front end  development.
+## Frontend projects and stuff related to frontend  development
 <br/>
 
 ### *Contact Info:*
